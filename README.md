@@ -3,4 +3,4 @@ Following along [Hands on Machine Learning with Scikit-Learn and Tensorflow](htt
 
 ## Notebooks
 
-- [Chapter 2: End-to-End Machine Learning Project](notebooks/Hands-on-Machine-Learning-Chapter-2.ipynb)
+- [Chapter 2: End-to-End Machine Learning Project](http://nbviewer.jupyter.org/github/elderpinzon/HandsOnML/blob/master/notebooks/Hands-on-Machine-Learning-Chapter-2.ipynb)
